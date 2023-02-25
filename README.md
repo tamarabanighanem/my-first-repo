@@ -16,8 +16,10 @@ I'm in my last semester, I have knowledge of some programming languages ,such as
 ***********
     
 i have linked in account and you can follwo me [tamara](https://www.linkedin.com/in/tamara-banighanem-348751231/)
-[tamara](tamara.jpeg)
+   
+   [tamara](C:\Users\Orange\Downloads\tamara.jpeg)
 
 
 
 
+wdqwwww
