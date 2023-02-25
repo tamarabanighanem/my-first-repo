@@ -10,8 +10,8 @@ i'm in last semester , i have about some programming language ,such as:
 * CSS  
 * PHP
 
-  to write my name in java we will call this method
-    system.out.print("tamara");
+  to write my name in java we will call this method:
+      system.out.print("tamara");
    
 ***********
     
