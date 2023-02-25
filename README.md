@@ -1,8 +1,8 @@
 # my-first-repo
 ### about me:
 
-Hello evrybody,my name is ***Tamara***,I'm 23 yeas old and i'm studing in `Hashimite University` in majoring ***Software engineering***,
-i'm in last semester , i have about some programming language ,such as:
+Hello evrybody,my name is ***Tamara***,I'm 23 yeas old and i'm studing at the `Hashimite University` , majoring in ***Software engineering***,
+I'm in my last semester, I have knowledge of some programming languages ,such as:
 * Java
 * C++  
 * Dart  
@@ -10,13 +10,13 @@ i'm in last semester , i have about some programming language ,such as:
 * CSS  
 * PHP
 
-  to write my name in java we will call this method:
+  To write my name in java we will call this method:
       system.out.print("tamara");
    
 ***********
     
-i have linked in account you can follwo me [tamara](https://www.linkedin.com/in/tamara-banighanem-348751231/)
-
+i have linked in account and you can follwo me [tamara](https://www.linkedin.com/in/tamara-banighanem-348751231/)
+[tamara](WhatsApp Image 2023-02-25 at 5.26.45 AM.jpeg)
 
 
 
