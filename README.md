@@ -1,6 +1,4 @@
 # my-first-repo
-### about me:
-
 Hello evrybody,my name is ***Tamara***,I'm 23 yeas old and i'm studing at the `Hashimite University` , majoring in ***Software engineering***,
 I'm in my last semester, I have knowledge of some programming languages ,such as:
 * Java
